@@ -42,18 +42,19 @@ Certifique-se de ter o Python instalado em sua máquina. Este projeto foi desenv
    ```sh
    python -m venv venv
    source venv/bin/activate   # No Windows, use: venv\Scripts\activate
+
 3. Instale as dependências necessárias:
 
-```sh
-pip install fpdf
+    ```sh
+    pip install fpdf
 
 ## Como Iniciar o Programa
 
 1. Certifique-se de que o ambiente virtual esteja ativado.
 2. Execute o script principal para iniciar a aplicação:
 
-```sh
-python main.py
+    ```sh
+    python main.py
 
 
 ## Utilização
